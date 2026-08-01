@@ -31,10 +31,13 @@ Pages serves the default branch from the repository root, so committing a change
 
 - **Every player and logged match in the screenshots is fictional.** The names are invented
   and the match data was generated for illustration, then checked against the app's
-  own calculations so the figures are self-consistent. No real player's record
-  appears anywhere in this repository. The break log screenshot is an exception: it is a
-  real set of break measurements, which carries speeds and distances but no names.
-- The screenshots were captured from a release build running on an Android emulator.
+  own calculations so the figures are self-consistent. No real player's record appears
+  anywhere in this repository.
+- The two break screenshots are the exception: the review screen and the break log are
+  genuine captures, because a measured break is not something that can be faked
+  convincingly. They carry speeds and distances, not people.
+- Everything else was captured from a release build on an Android emulator; the two
+  break screenshots came from a phone.
 - Pool Captain is an independent app, not affiliated with, endorsed by, or sponsored
   by the American Poolplayers Association, Fargo Rate, or any league operator or
   rating service.
