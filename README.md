@@ -12,9 +12,10 @@ private.
 | `index.html` | What the app does, tool by tool, and the call for testers |
 | `privacy-policy.html` | Privacy policy — the URL the app stores require |
 | `screenshots/` | Screenshots used by `index.html` |
+| `flyer.html` | A one-page printable flyer for handing out in poolrooms |
 
-Both pages are self-contained: no build step, no dependencies, no external requests.
-Open either file in a browser to preview it.
+All three pages are self-contained: no build step, no dependencies, no external requests.
+Open any of them in a browser to preview it.
 
 ## Published with GitHub Pages
 
@@ -22,6 +23,7 @@ Open either file in a browser to preview it.
 | --- | --- |
 | Overview | https://joeceaton.github.io/pool-captain-info/ |
 | Privacy policy | https://joeceaton.github.io/pool-captain-info/privacy-policy.html |
+| Flyer | https://joeceaton.github.io/pool-captain-info/flyer.html |
 
 The policy URL is the one to paste into Google Play Console and App Store Connect.
 Pages serves the default branch from the repository root, so committing a change to
